@@ -3,6 +3,7 @@ def square_array(array)
  count = 0
  binding.pry
  while count < array.length do 
+   count += 1
  end
  end
  
